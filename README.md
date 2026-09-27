@@ -5,8 +5,9 @@
 
 - **Môn học:** An toàn và bảo mật thông tin
 - **Hình thức thực hiện:** Làm trên máy cá nhân, quản lý phiên bản qua Git và đẩy lên GitHub công khai.
-- **Ngày hoàn thành:** Năm học 2024 - 2025
-- **Tác giả:** Sinh viên thực hiện
+- Sinh viên thực hiện: Chu Trọng Tấn
+- MSSV: K235480106063
+- Lớp: K59KMT
 - **Ngôn ngữ lập trình minh họa:** Python 3 / JavaScript (Web Crypto API)
 
 ---
