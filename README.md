@@ -215,3 +215,10 @@ Mỗi thực thể sở hữu một cặp khóa:
   1. Dùng RSA Private Key $SK_B$ mở $C_{key}$ để lấy lại $K_{session}$.
   2. Dùng $K_{session}$ giải mã $C_{data}$ bằng AES để lấy lại $M$.
 - **Ứng dụng thực tế:** Giao thức HTTPS (TLS/SSL), PGP/GPG trong mã hóa email, Signal, WhatsApp.
+
+
+
+
+
+
+Hello
